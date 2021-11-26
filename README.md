@@ -1,16 +1,17 @@
-### Bienvenue à tous 👋
+## Bienvenue à tous 👋
 
-Je m'appelle Nicolas et je suis en reconversion professionnelle.<br />
-Après plusieurs année d'expériences dans le support informatique, j'ai décidé de me diriger vers le développement Android.<br />
+Je m'appelle Nicolas, j'ai 37 ans et je suis en reconversion professionnelle.<br />
+Après plusieurs années d'expérience dans le support informatique, j'ai décidé de me diriger vers le développement Android.<br />
 Tous en travaillant comme technicien informatique, j'ai commencé une formation diplomante **niveau bac +2** durant mon temps libre au **CNAM** (Conservatoire National des Arts et Métiers).<br />
-J'ai commencé cette formation en 2019, et je l'ai terminé en 2021 pour obtenir le tire **RNCP tehcnicien développeur** orienté développement mobile.<br />
+J'ai commencé cette formation en 2018, et je l'ai terminé en 2021 pour obtenir le titre **RNCP technicien développeur** orienté développement mobile.<br />
 
-A ce jour après avoir terminé cette formation, je poursuis sur une licence informatique dans ce même établissement.<br />
-Je suis désormais à la recherche de mon premier emploi dans le développement **Android**.
+### A ce jour
+
+Je suis désormais à la recherche de mon premier emploi dans le développement **Android**, et je poursuis en même temps mes études sur une licence informatique dans ce même établissement.
 
 ### Compétences
-
-
+<img src="images/HTML5.png" width="60" > <img src="images/CSS3.png" width="43" > <img src="images/java.png" width="75" > <img src="images/C.png" width="60" >
+<img src="images/C++.png" width="50" > <img src="images/Android.png" width="50" > <img src="images/Kotlin.png" width="50" >
 
 ### Social 
 <a href="https://https://github.com/Pampitux"><img src="images/sc_github.png" width="50" >
