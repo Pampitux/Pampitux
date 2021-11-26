@@ -2,9 +2,10 @@
 
 Je m'appelle Nicolas et je suis en reconversion professionnelle.<br />
 Après plusieurs année d'expériences dans le support informatique, j'ai décidé de me diriger vers le développement Android.<br />
-Tous en travaillant avec le statut de technicien informatique, j'ai commencé une formation diplomante **niveau bac +2** durant mon temps libre (les soirs et les week-ends) en 2018 nommée **RNCP tehcnicien développeur** orienté développement mobile au **CNAM** (Conservatoire National des Arts et Métiers).
+Tous en travaillant comme technicien informatique, j'ai commencé une formation diplomante **niveau bac +2** durant mon temps libre au **CNAM** (Conservatoire National des Arts et Métiers).<br />
+J'ai commencé cette formation en 2019, et je l'ai terminé en 2021 pour obtenir le tire **RNCP tehcnicien développeur** orienté développement mobile.<br /><br />
 
-A ce jour après avoir terminé cette formation, j'ai poursuivi sur une licence informatique dans ce même établissement.
+A ce jour après avoir terminé cette formation, je poursuis sur une licence informatique dans ce même établissement.<br />
 
 <!--
 **Pampitux/Pampitux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
