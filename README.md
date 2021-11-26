@@ -10,7 +10,7 @@ J'ai commencé cette formation en 2018, et je l'ai terminé en 2021 pour obtenir
 Je suis désormais à la recherche de mon premier emploi dans le développement **Android**, et je poursuis en même temps mes études sur une licence informatique dans ce même établissement.
 
 ### Compétences
-<img src="images/HTML5.png" width="60" > <img src="images/CSS3.png" width="43" > <img src="images/java.png" width="75" > <img src="images/C.png" width="60" >
+<img src="images/HTML5.png" width="60" > <img src="images/CSS3.png" width="43" > <img src="images/java.png" width="75" > <img src="images/C.png" width="50" >
 <img src="images/C++.png" width="50" > <img src="images/Android.png" width="50" > <img src="images/Kotlin.png" width="50" >
 
 ### Social 
