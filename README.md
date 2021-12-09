@@ -17,4 +17,4 @@ Je suis désormais à la recherche de mon premier emploi dans le développement 
 <a href="https://https://github.com/Pampitux"><img src="images/sc_github.png" width="50" >
 <a href="https://www.linkedin.com/in/nicolas-alvarez-905288166/"><img src="images/sc_linkedin.png" width="50" >
     <a href="https://https://www.facebook.com/profile.php?id=100008120926056/"><img src="images/sc_facebook.png" width="50" >
-      <a href="https://https://www.youtube.com/channel/UCWuOLvzqjZdH9DXBtgEvqlg"><img src="images/ytube.png" width="50" alt="centered image">
+      <a href="https://www.youtube.com/channel/UCWuOLvzqjZdH9DXBtgEvqlg"><img src="images/ytube.png" width="50" alt="centered image">
